@@ -1,4 +1,4 @@
-**D-voX — Decentralized Voting Platform
+# D-voX — Decentralized Voting Platform
 
 Overview
 -
